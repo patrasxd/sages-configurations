@@ -5,3 +5,5 @@ eureka:
     should-enforce-registration-at-init: false
     register-with-eureka: false
     fetchRegistry: false
+server:
+  port: 8761
